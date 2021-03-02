@@ -39,3 +39,38 @@ text-decoration: none;
 .header-nav__item a::after{
     content:" / ";
 }
+
+h3{
+    color: darkturquoise;
+}
+
+div {
+    background-color: hotpink;
+    border-radius: 20px;
+    padding: 3em;
+    box-sizing: content-box;
+    display: inline-block;
+    box-sizing: content-box;
+    width: 80px;
+    height: 80px;
+    box-shadow: 10px 12px 15px 0 teal;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+
+
+
+div a:hover{
+    color: white;
+}
+
+footer{
+   text-align: center;
+   font-weight: 900;
+   font-size: 20px;
+}
